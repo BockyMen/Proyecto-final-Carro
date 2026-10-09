@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 304f37aac7ed6ee44a8d06c9e13f77dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3427443288308981933
+    second: boton_0
+  - first:
+      213: 4232820323457187007
+    second: boton_1
+  - first:
+      213: -3132519455478975374
+    second: boton_2
+  - first:
+      213: 3148047257583326010
+    second: boton_3
+  - first:
+      213: -317249964531825553
+    second: boton_4
+  - first:
+      213: 1554391337838612808
+    second: boton_5
+  - first:
+      213: -5271298904585983544
+    second: boton_6
+  - first:
+      213: -7951874797104649020
+    second: boton_7
+  - first:
+      213: 8928230546923624782
+    second: boton_8
+  - first:
+      213: 6500340370596211191
+    second: boton_9
+  - first:
+      213: 4292824049526048606
+    second: boton_10
+  - first:
+      213: -1527163505530212203
+    second: boton_11
+  - first:
+      213: -5672207420616330048
+    second: boton_12
+  - first:
+      213: -7279693040381846977
+    second: boton_13
+  - first:
+      213: -7583289782876054017
+    second: boton_14
+  - first:
+      213: -2439420989245027075
+    second: boton_15
+  - first:
+      213: 189619182117778269
+    second: boton_16
+  - first:
+      213: -2123590490193526386
+    second: boton_17
+  - first:
+      213: -7842933762383741087
+    second: boton_18
+  - first:
+      213: 4822763504163331243
+    second: boton_19
+  - first:
+      213: 4646944430548974548
+    second: boton_20
+  - first:
+      213: 8461040763754710418
+    second: boton_21
+  - first:
+      213: -5681549599814754870
+    second: boton_22
+  - first:
+      213: 3204797210028327281
+    second: boton_23
+  - first:
+      213: 7759236525961121301
+    second: boton_24
+  - first:
+      213: -5166906130412573747
+    second: boton_25
+  - first:
+      213: 2768941599552358930
+    second: boton_26
+  - first:
+      213: 8135281309361879614
+    second: boton_27
+  - first:
+      213: -6022265552258949361
+    second: boton_28
+  - first:
+      213: 6910854952098141210
+    second: boton_29
+  - first:
+      213: -4029115589301081795
+    second: boton_30
+  - first:
+      213: -8903672600355525631
+    second: boton_31
+  - first:
+      213: -1708014420259115278
+    second: boton_32
+  - first:
+      213: -7422276454085805810
+    second: boton_33
+  - first:
+      213: 6696976731372358051
+    second: boton_34
+  - first:
+      213: -6413098142441893125
+    second: boton_35
+  - first:
+      213: -402908307639693797
+    second: boton_36
+  - first:
+      213: -3362619171306089596
+    second: boton_37
+  - first:
+      213: -1383766374726854363
+    second: boton_38
+  - first:
+      213: 6203749151478655000
+    second: boton_39
+  - first:
+      213: -965762675919175816
+    second: boton_40
+  - first:
+      213: 1895628088047439827
+    second: boton_41
+  - first:
+      213: -2401099021000055275
+    second: boton_42
+  - first:
+      213: 2350202619487591513
+    second: boton_43
+  - first:
+      213: 1891534423155473492
+    second: boton_44
+  - first:
+      213: 6783505157996525514
+    second: boton_45
+  - first:
+      213: 5020423061582386295
+    second: boton_46
+  - first:
+      213: 9196886271818888590
+    second: boton_47
+  - first:
+      213: 4042224043557746797
+    second: boton_48
+  - first:
+      213: -6144978162345996816
+    second: boton_49
+  - first:
+      213: -7406528316839665595
+    second: boton_50
+  - first:
+      213: 1750085321572367250
+    second: boton_51
+  - first:
+      213: -1113325537724490536
+    second: boton_52
+  - first:
+      213: -5713347438315213366
+    second: boton_53
+  - first:
+      213: -1809392147824517305
+    second: boton_54
+  - first:
+      213: -8791156621275233132
+    second: boton_55
+  - first:
+      213: -4926659089065105667
+    second: boton_56
+  - first:
+      213: -6235006037692845811
+    second: boton_57
+  - first:
+      213: -809998073850118198
+    second: boton_58
+  - first:
+      213: -1393401564340811398
+    second: boton_59
+  - first:
+      213: 8234493263285782937
+    second: boton_60
+  - first:
+      213: 8826385268952007301
+    second: boton_61
+  - first:
+      213: -6218196272391314697
+    second: boton_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boton_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 613
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5a27e1d317845418053075fbdc57a8
+      internalID: -3427443288308981933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_1
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 160
+        width: 604
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3c049453a13b44894bb9f625c50ec1
+      internalID: 4232820323457187007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1e201810eddf2534196d7e00e5e48b73
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":1.0},"gridSpriteSize":{"x":887.0,"y":887.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      boton_0: -3427443288308981933
+      boton_1: 4232820323457187007
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
