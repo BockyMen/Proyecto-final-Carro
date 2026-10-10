@@ -7,7 +7,6 @@ using UnityEngine.EventSystems;
 #if ENABLE_INPUT_SYSTEM
 using UnityEngine.InputSystem;
 #endif
-
 public class CarController : MonoBehaviour
 {
     [Header("Bluetooth Connection")]
@@ -18,18 +17,18 @@ public class CarController : MonoBehaviour
     [Header("Control")]
     public float resendInterval = 0.15f;
 
-    [Header("UI Buttons (opcional: si se dejan vacios se buscan por nombre)")]
+    [Header("UI Buttons")]
     public Button upButton;
     public Button downButton;
     public Button leftButton;
     public Button rightButton;
 
-    [Header("Connect / Disconnect Buttons (NUEVO)")]
+    [Header("Connect / Disconnect Buttons")]
     public Button connectButton;
     public Button disconnectButton;
-    [Tooltip("Sprite del boton Conectar mientras hay conexion (opcional)")]
+    [Tooltip("Sprite del boton Conectar mientras hay conexion")]
     public Sprite connectedSprite;
-    [Tooltip("Sprite del boton Desconectar cuando esta en modo AUTO / desconectado (opcional)")]
+    [Tooltip("Sprite del boton Desconectar cuando esta en modo AUTO / desconectado")]
     public Sprite disconnectedSprite;
 
     [Header("Status")]
@@ -45,7 +44,6 @@ public class CarController : MonoBehaviour
     char sentCommand = '\0';
     float nextSendTime;
 
-    // NUEVO
     char uiCommand = 'S';
     bool simulating;
     bool wHeld, sHeld, aHeld, dHeld;
@@ -87,7 +85,6 @@ public class CarController : MonoBehaviour
             Send(desired);
         }
     }
-
     void OnApplicationQuit() => Close(true);
     void OnDestroy() => Close(true);
 
@@ -136,7 +133,6 @@ public class CarController : MonoBehaviour
         status = "AUTO (disconnected) - press C to take control";
         Debug.Log("[Car] Auto mode enabled, Bluetooth disconnected");
     }
-
     char ReadMovement()
     {
 #if ENABLE_INPUT_SYSTEM
