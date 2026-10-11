@@ -1,22 +1,22 @@
 fileFormatVersion: 2
-guid: 38c3222999be1d8429029ddaabb5d048
+guid: 08443241c71c91f4bbcd87e473742387
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8429560962841108511
-    second: "Botones de flechas ne\xF3n futuristas_0"
+      213: -883727124421278649
+    second: Asset Bottoms_0
   - first:
-      213: -576170242618759400
-    second: "Botones de flechas ne\xF3n futuristas_1"
+      213: -5591985226079095619
+    second: Asset Bottoms_1
   - first:
-      213: 9017922518875600305
-    second: "Botones de flechas ne\xF3n futuristas_2"
+      213: 2168609804908731728
+    second: Asset Bottoms_2
   - first:
-      213: 7958266080952953545
-    second: "Botones de flechas ne\xF3n futuristas_3"
+      213: -2101000566721697853
+    second: Asset Bottoms_3
   - first:
-      213: 7966264291647442084
-    second: "Botones de flechas ne\xF3n futuristas_4"
+      213: 7947728411740106420
+    second: Asset Bottoms_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -112,7 +112,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Botones de flechas ne\xF3n futuristas_0"
+      name: Asset Bottoms_0
       rect:
         serializedVersion: 2
         x: 710
@@ -127,14 +127,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ef1b5d47fe240b80800000000000000
-      internalID: -8429560962841108511
+      spriteID: 7440e7eccde5cb3f0800000000000000
+      internalID: -883727124421278649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Botones de flechas ne\xF3n futuristas_1"
+      name: Asset Bottoms_1
       rect:
         serializedVersion: 2
         x: 425
@@ -149,14 +149,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 817ee8e87380108f0800000000000000
-      internalID: -576170242618759400
+      spriteID: db4b25280174562b0800000000000000
+      internalID: -5591985226079095619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Botones de flechas ne\xF3n futuristas_2"
+      name: Asset Bottoms_2
       rect:
         serializedVersion: 2
         x: 710
@@ -171,14 +171,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b5739d70c8162d70800000000000000
-      internalID: 9017922518875600305
+      spriteID: 05d9306b023781e10800000000000000
+      internalID: 2168609804908731728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Botones de flechas ne\xF3n futuristas_3"
+      name: Asset Bottoms_3
       rect:
         serializedVersion: 2
         x: 1006
@@ -193,14 +193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9caad3ff5d0717e60800000000000000
-      internalID: 7958266080952953545
+      spriteID: 3c7a8abbd1fb7d2e0800000000000000
+      internalID: -2101000566721697853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Botones de flechas ne\xF3n futuristas_4"
+      name: Asset Bottoms_4
       rect:
         serializedVersion: 2
         x: 707
@@ -215,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ac468a8a2bdd8e60800000000000000
-      internalID: 7966264291647442084
+      spriteID: 4be6c01b1e00c4e60800000000000000
+      internalID: 7947728411740106420
       vertices: []
       indices: 
       edges: []
@@ -235,11 +235,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "Botones de flechas ne\xF3n futuristas_0": -8429560962841108511
-      "Botones de flechas ne\xF3n futuristas_1": -576170242618759400
-      "Botones de flechas ne\xF3n futuristas_2": 9017922518875600305
-      "Botones de flechas ne\xF3n futuristas_3": 7958266080952953545
-      "Botones de flechas ne\xF3n futuristas_4": 7966264291647442084
+      Asset Bottoms_0: -883727124421278649
+      Asset Bottoms_1: -5591985226079095619
+      Asset Bottoms_2: 2168609804908731728
+      Asset Bottoms_3: -2101000566721697853
+      Asset Bottoms_4: 7947728411740106420
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
