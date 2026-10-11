@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 7a4f77250a93a41439a6bcdf3567c80a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8370564359814593973
+    second: Buttom_0
+  - first:
+      213: -8820011695417323737
+    second: Buttom_1
+  - first:
+      213: -1515895382421225620
+    second: Buttom_2
+  - first:
+      213: -6062824742635509343
+    second: Buttom_3
+  - first:
+      213: 2741088399339785554
+    second: Buttom_4
+  - first:
+      213: 4771447166508352478
+    second: Buttom_5
+  - first:
+      213: 8586823677776020432
+    second: Buttom_6
+  - first:
+      213: -5872051096647801002
+    second: Buttom_7
+  - first:
+      213: 3263962245733638419
+    second: Buttom_8
+  - first:
+      213: -7958757174083320430
+    second: Buttom_9
+  - first:
+      213: -8336965718421574793
+    second: Buttom_10
+  - first:
+      213: -8542424822312981644
+    second: Buttom_11
+  - first:
+      213: -8795343473386027376
+    second: Buttom_12
+  - first:
+      213: 66625157978311011
+    second: Buttom_13
+  - first:
+      213: -8360483853676947685
+    second: Buttom_14
+  - first:
+      213: -9206539878877083573
+    second: Buttom_15
+  - first:
+      213: 6362632876841159856
+    second: Buttom_16
+  - first:
+      213: 4058581581957634860
+    second: Buttom_17
+  - first:
+      213: 8110324147956545997
+    second: Buttom_18
+  - first:
+      213: 4634853465137185572
+    second: Buttom_19
+  - first:
+      213: -7097140016344170164
+    second: Buttom_20
+  - first:
+      213: -7953032305629800148
+    second: Buttom_21
+  - first:
+      213: -6541844852245846436
+    second: Buttom_22
+  - first:
+      213: -3091272439497883758
+    second: Buttom_23
+  - first:
+      213: 7874545550659703209
+    second: Buttom_24
+  - first:
+      213: 5407852084393112734
+    second: Buttom_25
+  - first:
+      213: 3091691053860235789
+    second: Buttom_26
+  - first:
+      213: -2562384128386890904
+    second: Buttom_27
+  - first:
+      213: 4704679410020472368
+    second: Buttom_28
+  - first:
+      213: 5774066276214793038
+    second: Buttom_29
+  - first:
+      213: 2844862768217279540
+    second: Buttom_30
+  - first:
+      213: 3800559831241993976
+    second: Buttom_31
+  - first:
+      213: 2095539938800400955
+    second: Buttom_32
+  - first:
+      213: 379452068390857774
+    second: Buttom_33
+  - first:
+      213: -271138722521482038
+    second: Buttom_34
+  - first:
+      213: 2043001157825648536
+    second: Buttom_35
+  - first:
+      213: 5648875554353208626
+    second: Buttom_36
+  - first:
+      213: -2343892151037099506
+    second: Buttom_37
+  - first:
+      213: 6284251218695022586
+    second: Buttom_38
+  - first:
+      213: -4787089177581110202
+    second: Buttom_39
+  - first:
+      213: 5758888969000176947
+    second: Buttom_40
+  - first:
+      213: -339101025063988039
+    second: Buttom_41
+  - first:
+      213: -4348767197266445057
+    second: Buttom_42
+  - first:
+      213: -8444754839335148253
+    second: Buttom_43
+  - first:
+      213: 6067434249866825965
+    second: Buttom_44
+  - first:
+      213: -3706464133404071995
+    second: Buttom_45
+  - first:
+      213: -6827160676711272923
+    second: Buttom_46
+  - first:
+      213: 8709191278053602602
+    second: Buttom_47
+  - first:
+      213: -2346116435350194412
+    second: Buttom_48
+  - first:
+      213: 5876123872267899064
+    second: Buttom_49
+  - first:
+      213: 8587423641708551053
+    second: Buttom_50
+  - first:
+      213: 5531027523648388203
+    second: Buttom_51
+  - first:
+      213: -3951198631785941078
+    second: Buttom_52
+  - first:
+      213: 1993899089447758151
+    second: Buttom_53
+  - first:
+      213: -7834659936178827946
+    second: Buttom_54
+  - first:
+      213: -7966392347122567640
+    second: Buttom_55
+  - first:
+      213: 5124700090479161732
+    second: Buttom_56
+  - first:
+      213: -4993036136181850239
+    second: Buttom_57
+  - first:
+      213: 8921140238350976784
+    second: Buttom_58
+  - first:
+      213: 4332329670643711274
+    second: Buttom_59
+  - first:
+      213: -5149424386247210704
+    second: Buttom_60
+  - first:
+      213: -4710151523832933041
+    second: Buttom_61
+  - first:
+      213: 4411808403333569749
+    second: Buttom_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buttom_0
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 160
+        width: 590
+        height: 595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd3b44afe73a2470800000000000000
+      internalID: 8370564359814593973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttom_1
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 162
+        width: 590
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f0cdbe716099580800000000000000
+      internalID: -8820011695417323737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e3fb4bfe138033042b02fd658b0f91b2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":1.0},"gridSpriteSize":{"x":887.0,"y":887.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Buttom_0: 8370564359814593973
+      Buttom_1: -8820011695417323737
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

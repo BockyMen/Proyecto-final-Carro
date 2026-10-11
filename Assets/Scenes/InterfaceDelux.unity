@@ -157,7 +157,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 2
+  m_Transition: 0
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -168,7 +168,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 4232820323457187007, guid: 304f37aac7ed6ee44a8d06c9e13f77dc, type: 3}
+    m_PressedSprite: {fileID: -2569955703754232132, guid: ae64a30d18242cb43bed9989b5e16513, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -202,7 +202,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3427443288308981933, guid: 304f37aac7ed6ee44a8d06c9e13f77dc, type: 3}
+  m_Sprite: {fileID: 8370564359814593973, guid: 7a4f77250a93a41439a6bcdf3567c80a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -567,7 +567,7 @@ GameObject:
   - component: {fileID: 931425380}
   - component: {fileID: 931425379}
   m_Layer: 0
-  m_Name: "Marco HUD futurista en ne\xF3n cian_0"
+  m_Name: BackGround
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -622,7 +622,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 8034837068414599111, guid: d5a76f8a45a74614c9225b07dd682d93, type: 3}
+  m_Sprite: {fileID: -1955448553306655712, guid: 9b07eb484602df94292e6b46c948ee3b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -750,7 +750,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 9017922518875600305, guid: 38c3222999be1d8429029ddaabb5d048, type: 3}
+  m_Sprite: {fileID: -7914816729097224380, guid: b894ee9faaa4a5f45b90238e299f2a8a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -870,7 +870,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 7958266080952953545, guid: 38c3222999be1d8429029ddaabb5d048, type: 3}
+  m_Sprite: {fileID: -8090092272654901113, guid: b894ee9faaa4a5f45b90238e299f2a8a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -990,7 +990,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -576170242618759400, guid: 38c3222999be1d8429029ddaabb5d048, type: 3}
+  m_Sprite: {fileID: 291069080626966498, guid: b894ee9faaa4a5f45b90238e299f2a8a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1110,7 +1110,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 7966264291647442084, guid: 38c3222999be1d8429029ddaabb5d048, type: 3}
+  m_Sprite: {fileID: 9217772189508522650, guid: b894ee9faaa4a5f45b90238e299f2a8a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1258,8 +1258,8 @@ MonoBehaviour:
   rightButton: {fileID: 1210510161}
   connectButton: {fileID: 285979979}
   disconnectButton: {fileID: 285979979}
-  connectedSprite: {fileID: 4232820323457187007, guid: 304f37aac7ed6ee44a8d06c9e13f77dc, type: 3}
-  disconnectedSprite: {fileID: -3427443288308981933, guid: 304f37aac7ed6ee44a8d06c9e13f77dc, type: 3}
+  connectedSprite: {fileID: -8820011695417323737, guid: 7a4f77250a93a41439a6bcdf3567c80a, type: 3}
+  disconnectedSprite: {fileID: 8370564359814593973, guid: 7a4f77250a93a41439a6bcdf3567c80a, type: 3}
   status: Disconnected
   lastCommand: '-'
 --- !u!1660057539 &9223372036854775807

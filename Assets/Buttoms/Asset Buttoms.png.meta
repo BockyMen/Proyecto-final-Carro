@@ -1,22 +1,22 @@
 fileFormatVersion: 2
-guid: 08443241c71c91f4bbcd87e473742387
+guid: b894ee9faaa4a5f45b90238e299f2a8a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -883727124421278649
-    second: Asset Bottoms_0
+      213: 3867008131332680149
+    second: Asset Buttoms_0
   - first:
-      213: -5591985226079095619
-    second: Asset Bottoms_1
+      213: 291069080626966498
+    second: Asset Buttoms_1
   - first:
-      213: 2168609804908731728
-    second: Asset Bottoms_2
+      213: -7914816729097224380
+    second: Asset Buttoms_2
   - first:
-      213: -2101000566721697853
-    second: Asset Bottoms_3
+      213: -8090092272654901113
+    second: Asset Buttoms_3
   - first:
-      213: 7947728411740106420
-    second: Asset Bottoms_4
+      213: 9217772189508522650
+    second: Asset Buttoms_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -112,7 +112,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Asset Bottoms_0
+      name: Asset Buttoms_0
       rect:
         serializedVersion: 2
         x: 710
@@ -127,14 +127,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7440e7eccde5cb3f0800000000000000
-      internalID: -883727124421278649
+      spriteID: 5d9a1ab386f5aa530800000000000000
+      internalID: 3867008131332680149
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Asset Bottoms_1
+      name: Asset Buttoms_1
       rect:
         serializedVersion: 2
         x: 425
@@ -149,14 +149,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db4b25280174562b0800000000000000
-      internalID: -5591985226079095619
+      spriteID: 2efaed369c51a0400800000000000000
+      internalID: 291069080626966498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Asset Bottoms_2
+      name: Asset Buttoms_2
       rect:
         serializedVersion: 2
         x: 710
@@ -171,14 +171,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 05d9306b023781e10800000000000000
-      internalID: 2168609804908731728
+      spriteID: 44f37df8e1ce82290800000000000000
+      internalID: -7914816729097224380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Asset Bottoms_3
+      name: Asset Buttoms_3
       rect:
         serializedVersion: 2
         x: 1006
@@ -193,14 +193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3c7a8abbd1fb7d2e0800000000000000
-      internalID: -2101000566721697853
+      spriteID: 780a540f0f73abf80800000000000000
+      internalID: -8090092272654901113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Asset Bottoms_4
+      name: Asset Buttoms_4
       rect:
         serializedVersion: 2
         x: 707
@@ -215,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4be6c01b1e00c4e60800000000000000
-      internalID: 7947728411740106420
+      spriteID: a925120f7fa1cef70800000000000000
+      internalID: 9217772189508522650
       vertices: []
       indices: 
       edges: []
@@ -235,11 +235,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Asset Bottoms_0: -883727124421278649
-      Asset Bottoms_1: -5591985226079095619
-      Asset Bottoms_2: 2168609804908731728
-      Asset Bottoms_3: -2101000566721697853
-      Asset Bottoms_4: 7947728411740106420
+      Asset Buttoms_0: 3867008131332680149
+      Asset Buttoms_1: 291069080626966498
+      Asset Buttoms_2: -7914816729097224380
+      Asset Buttoms_3: -8090092272654901113
+      Asset Buttoms_4: 9217772189508522650
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
